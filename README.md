@@ -32,4 +32,4 @@ Blog:
 
 Face:
 
-Email:
+Email: nguyenlenam15082007@gmail.com
