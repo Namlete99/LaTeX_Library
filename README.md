@@ -30,6 +30,6 @@ Một thằng lông bông sinh năm 2007.
 
 Blog:
 
-Face:
+Facebook: [Nguyễn Lê Nam](https://www.facebook.com/nguyen.le.nam.964512/)
 
 Email: nguyenlenam15082007@gmail.com
