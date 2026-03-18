@@ -1,4 +1,4 @@
-# LaTex: Thư viện soạn thảo văn bản bằng các mã lệnh dành cho mọi người
+# LaTeX: Thư viện soạn thảo văn bản bằng các mã lệnh dành cho mọi người
 
 <div align="center">
   
