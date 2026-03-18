@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="./Images/Bìa%20sách.jpg" alt="LaTex: Thư viện soạn thảo văn bản bằng các mã lệnh dành cho mọi người" class="book" height="1200px"/>
+<img src="./Images/Bìa%20sách.jpg" alt="LaTex: Thư viện soạn thảo văn bản bằng các mã lệnh dành cho mọi người" class="book" height="600px"/>
 
 </div>
 
@@ -26,7 +26,7 @@ Chỉ là một thằng lông bông sinh năm 2007.
 
 <div align="center">
 
-<img src="./Images/Yuki%20Nagato.jpg" alt="Yuki Nagato" class="book" height="450px"/>
+<img src="./Images/Yuki%20Nagato.jpg" alt="Yuki Nagato" class="book" height="200px"/>
 
 </div>
 
