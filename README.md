@@ -10,11 +10,11 @@
 
 Vì sao tôi lại làm thư viện này ? Gửi đến ai ?
 
-## 2. Cấu trúc của cuốn sách
+## 2. Cấu trúc của thư viện
 
 (Sau khi làm xong mới ghi chép phần này)
 
-## 3. Hướng dẫn cách đọc sách này
+## 3. Hướng dẫn cách đọc thư viện này
 
 (Tương tự như 2. . . )
 
