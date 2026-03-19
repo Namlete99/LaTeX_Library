@@ -30,7 +30,7 @@ Chỉ là một thằng lông bông sinh năm 2007.
 
 </div>
 
-Blog: (Đang tạo)
+Blog: https://namle-a6.github.io/Namleteblog.github.io/
 
 Facebook: https://www.facebook.com/nguyen.le.nam.964512
 
